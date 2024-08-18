@@ -1,0 +1,53 @@
+[
+  {
+    "titulo": "Leche con Chocolate",
+    "descripcion": "Una bebida deliciosa y cremosa de leche con un rico sabor a chocolate, perfecta para disfrutar en cualquier momento del día.",
+    "categoria": "mañana",
+    "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+    "precio": 120,
+    "stock": 10
+  },
+  {
+    "titulo": "Mezcla para Muffin de Fresa y Ruibarbo",
+    "descripcion": "Una mezcla deliciosa para preparar muffins suaves y esponjosos con el sabor dulce de la fresa y el toque ácido del ruibarbo.",
+    "categoria": "mañana",
+    "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+    "precio": 200,
+    "stock": 10
+  },
+  {
+    "titulo": "Aperitivo de Pollo al Estragón",
+    "descripcion": "Un sabroso aperitivo de pollo con un toque aromático de estragón, ideal para empezar tus comidas con un sabor único.",
+    "categoria": "mediodia",
+    "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+    "precio": 300,
+    "stock": 10
+  },
+  {
+    "titulo": "Ensalada de Frutas Frescas",
+    "descripcion": "Una mezcla refrescante y saludable de frutas frescas de temporada, ideal para disfrutar en la tarde. Rica en vitaminas y perfecta para una merienda ligera.",
+    "categoria": "tarde",
+    "imagen": "http://dummyimage.com/200x100.png/76c7c0/ffffff",
+    "precio": 85,
+    "stock": 15
+  },
+
+  [
+    {
+      "titulo": "Cena - Filete de Salmón",
+      "descripcion": "Delicioso filete de salmón a la parrilla con acompañamiento de vegetales.",
+      "categoria": "noche",
+      "imagen": "http://dummyimage.com/200x100.png/008000/ffffff",
+      "precio": 350,
+      "stock": 8
+    },
+    {
+      "titulo": "Cena - Pollo Asado",
+      "descripcion": "Jugoso pollo asado con papas doradas y ensalada fresca.",
+      "categoria": "noche",
+      "imagen": "http://dummyimage.com/200x100.png/ff6347/ffffff",
+      "precio": 350,
+      "stock": 12
+    }
+  ]
+]
